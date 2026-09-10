@@ -1,0 +1,17 @@
+{
+  "name": "genpark-neighbor-joining-phylogenetic-tree-skill",
+  "version": "1.0.0",
+  "description": "Neighbor-Joining (NJ) distance-based phylogenetic tree reconstruction algorithm calculating Q-matrices and star tree node clustering.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "neighbor-joining",
+    "phylogenetics",
+    "evolutionary-tree",
+    "clustering",
+    "bioinformatics"
+  ],
+  "dependencies": []
+}
